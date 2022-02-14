@@ -27,13 +27,13 @@
      units="in"
      inkscape:zoom="3.1597197"
      inkscape:cx="116.94075"
-     inkscape:cy="109.66162"
+     inkscape:cy="109.66163"
      inkscape:window-width="1440"
      inkscape:window-height="855"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer4" />
   <defs
      id="defs2">
     <linearGradient
@@ -2833,20 +2833,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="4.8561039"
-       y="34.50985"
-       id="text5134"><tspan
-         sodipodi:role="line"
-         id="tspan5132"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="4.8561039"
-         y="34.50985">maptime.io/bogota</tspan></text>
     <g
        id="g47325"
-       transform="matrix(0.17439405,0,0,0.17439405,1.0073952,-0.82944736)">
+       transform="matrix(0.17439405,0,0,0.17439405,1.0073952,-0.82944736)"
+       inkscape:export-filename="/Users/angoca/github/MeetUps/20220305-ODD-Federman/stickers/maptime.png"
+       inkscape:export-xdpi="511.04001"
+       inkscape:export-ydpi="511.04001">
       <g
          id="layer3"
          inkscape:label="Alignment"
@@ -2936,6 +2928,23 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Texto"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.8561039"
+       y="34.50985"
+       id="text5134"><tspan
+         sodipodi:role="line"
+         id="tspan5132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="4.8561039"
+         y="34.50985">maptime.io/bogota</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
